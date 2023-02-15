@@ -169,6 +169,3 @@ function showIdentity(data, slot, name)
     end)
     ]]
 end
-
-
-print("Nigerio Kiaušiai")
